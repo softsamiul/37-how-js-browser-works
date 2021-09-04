@@ -1,0 +1,39 @@
+How JS & Browser Works:
+=======================
+
+1. How internet Works? (Search)
+2. DNS Server
+3. Data Center
+
+4. What is DOM Tree? (Search)
+5. Style Structure / Style Tree
+
+6. Render Tree: 4 & 5 both together called as Render Tree
+7. Browser User Interface
+8. Re-render
+9. Re-painting
+
+10. Javascript V8 nengine
+11. Interpreter language: can read code by themself line by line 
+12. Compiler language: 
+13. Just in time compiler (JIT) (Search)
+14. Garbaze collection
+
+14. SetTimeout simple Asynchronous JS using
+#setTimeout: pass the code and execute after loading all the normal js code, we can also set the time out in milisecont unit
+
+15. Recognize fetch as an Asynchronous activity => fetch is by default Asynchronous
+
+16. setInterval & clearInterval
+
+17. event loop & concurruncy
+-------------------------------
+    1. Javascript event loop (Search see video of filip)
+    2. Stack & Queue
+
+
+18. 
+
+
+
+
